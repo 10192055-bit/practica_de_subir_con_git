@@ -1,7 +1,7 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
-    background-color: #f5f5f5;
+    background-color: #b0f049;
     }
 
 .contenedor {
@@ -21,14 +21,14 @@ button{
     cursor: pointer;
 }
 
-#rojo{
-    background-color: red;
+#naranja{
+    background-color: orange;
 }
 
-#azul{
-    background-color: blue;
+#negro{
+    background-color: black;
 }
 
-#verde{
-    background-color: green;
+#amarillo{
+    background-color: yellow;
 }
