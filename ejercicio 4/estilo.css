@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(175, 81, 81);
+    font-family: monospace;
+    text-align: center;
+}
+
+.contenedor{
+    margin-top: 80px;
+}
+
+h2{
+    font-size: 50px;
+    color: darkorange;
+}
+
+button{
+    padding: 12px 20px;
+    margin: 5px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#suma{
+    background-color: aqua;
+    color: blue;
+}
+
+#reiniciar{
+    background-color: rgb(183, 130, 231);
+    color: black;
+}
