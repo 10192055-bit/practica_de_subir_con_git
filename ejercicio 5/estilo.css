@@ -1,0 +1,30 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: aqua;
+}
+
+.calculadora{
+    width: 85%;
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 25px;
+    background-color: burlywood;
+    text-align: center;
+    border-radius: 10px;
+}
+
+input{
+    width: 90%;
+    box-sizing: border-box;
+    padding: 10px;
+    margin: 8px 0;
+}
+
+button{
+    padding: 10px;
+    margin: 5px;
+}
+
+#resultado{
+    color: brown;
+}
